@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "char-counts"
+    "url": "https://github.com/i-shl/char-counts.git"
   },
   "keywords": [
     "字符计数"
